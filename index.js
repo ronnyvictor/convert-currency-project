@@ -6,4 +6,4 @@ function convertUSDtoCAD (amountUSD){
 
 // console.log(convertUSDtoCAD(USD))
 
-console.log(`${USD} is equivalent to ${convertUSDtoCAD(USD)}`)
+console.log(`${USD} USD is equivalent to ${convertUSDtoCAD(USD)} CAD`)
